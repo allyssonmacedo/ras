@@ -27,7 +27,17 @@ cd ras
 npm install
 npm start
 ```
+## OBS
+```
+Adicionar essa chave nas varíaveis de ambiente do servidor
+Chave (Key)
+NODE_OPTIONS
+
+Valor (Value)
+--openssl-legacy-provider
+```
 
 ## License
 
 MIT © [Lucas Zunder](https://github.com/lucaszunder)
+
